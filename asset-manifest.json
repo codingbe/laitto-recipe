@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/laitto-recipe/static/js/main.184e7c7d.chunk.js",
+    "main.js.map": "/laitto-recipe/static/js/main.184e7c7d.chunk.js.map",
+    "runtime-main.js": "/laitto-recipe/static/js/runtime-main.3b134ae9.js",
+    "runtime-main.js.map": "/laitto-recipe/static/js/runtime-main.3b134ae9.js.map",
+    "static/js/2.68ec1844.chunk.js": "/laitto-recipe/static/js/2.68ec1844.chunk.js",
+    "static/js/2.68ec1844.chunk.js.map": "/laitto-recipe/static/js/2.68ec1844.chunk.js.map",
+    "index.html": "/laitto-recipe/index.html",
+    "static/js/2.68ec1844.chunk.js.LICENSE.txt": "/laitto-recipe/static/js/2.68ec1844.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b134ae9.js",
+    "static/js/2.68ec1844.chunk.js",
+    "static/js/main.184e7c7d.chunk.js"
+  ]
+}
